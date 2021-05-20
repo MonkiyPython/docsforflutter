@@ -1,4 +1,4 @@
 ### Author
 
 * Rajath Kumar K S
-https://rajathkumarks.com
+- https://rajathkumarks.com
